@@ -1,8 +1,6 @@
-Tabii, ilişkilerin farklı türlerde olduğu bir tabloyu aşağıda düzenledim. Projenizin ihtiyaçlarına göre "1:1" (bire bir), "N:M" (çoktan çoğa) gibi ilişki türleri ekledim ve bunların mantıksal gerekçelerini de belirttim:
-
 ---
 
-### 1. Varlıklar ve Nitelikler
+## 1. Varlıklar ve Nitelikler
 
 | Varlık        | Açıklama                                      | Nitelikler                                                 |
 |---------------|-----------------------------------------------|------------------------------------------------------------|
@@ -16,7 +14,7 @@ Tabii, ilişkilerin farklı türlerde olduğu bir tabloyu aşağıda düzenledim
 
 ---
 
-### 2. İlişkiler ve Sayısal Kısıtlamalar
+## 2. İlişkiler ve Sayısal Kısıtlamalar
 
 | İlişki           | Açıklama                                                                                              | Sayısal Kısıtlama |
 |------------------|-------------------------------------------------------------------------------------------------------|--------------------|
@@ -32,13 +30,13 @@ Tabii, ilişkilerin farklı türlerde olduğu bir tabloyu aşağıda düzenledim
 
 ---
 
-### 3. E-R Diyagramı
+## 3. E-R Diyagramı
 
 Bu gereksinimlere göre E-R diyagramınızı oluştururken yukarıdaki varlıkları ve ilişkileri diyagram üzerinde gösterebilirsiniz. Varlıkları dikdörtgen içinde, ilişkileri ise elmas şeklinde çizip, ilişkilerin sayısal kısıtlamalarını (1:1, 1:N, N:M) belirtebilirsiniz.
 
 ---
 
-### 4. Kullanıcı Rolleri ve Gereksinimler
+## 4. Kullanıcı Rolleri ve Gereksinimler
 
 | Kullanıcı Rolü       | Gereksinimler                                              |
 |----------------------|------------------------------------------------------------|
