@@ -1,3 +1,4 @@
+
 ---
 
 ## 1. Varlıklar ve Nitelikler
