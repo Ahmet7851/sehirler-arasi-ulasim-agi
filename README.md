@@ -3,9 +3,9 @@
 # Şehirler Arası Ulaşım Ağı Veri Tabanı
 
 ### Projede Emeği Geçenler:
-225260304 – Ahmet Bulut  
-205260060 – Mehmet Dürmüş
-215260036 Serhat Özgan
+225260304 - Ahmet Bulut  
+205260060 - Mehmet Dürmüş
+215260036 - Serhat Özgan
 
 ---
 
