@@ -1,5 +1,13 @@
 
 ---
+# Şehirler Arası Ulaşım Ağı Veri Tabanı
+
+### Projede Emeği Geçenler:
+225260304 – Ahmet Bulut  
+205260060 – Mehmet Dürmüş
+215260036 Serhat Özgan
+
+---
 
 ## 1. Varlıklar ve Nitelikler
 
@@ -33,7 +41,6 @@
 
 ## 3. E-R Diyagramı
 
-Bu gereksinimlere göre E-R diyagramınızı oluştururken yukarıdaki varlıkları ve ilişkileri diyagram üzerinde gösterebilirsiniz. Varlıkları dikdörtgen içinde, ilişkileri ise elmas şeklinde çizip, ilişkilerin sayısal kısıtlamalarını (1:1, 1:N, N:M) belirtebilirsiniz.
 
 ---
 
