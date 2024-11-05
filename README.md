@@ -5,7 +5,7 @@
 | Varlık        | Açıklama                                      | Nitelikler                                                 |
 |---------------|-----------------------------------------------|------------------------------------------------------------|
 | Şehir         | Bu varlık her bir şehri temsil eder.          | şehir_id (PK), şehir_adı, şehir_bölgesi                    |
-| Otogar        | Her şehirde bir veya daha fazla otogar olabilir. | otogar_id (PK), otogar_adı, şehir_id (FK), adres           |
+| Otogar        | Her şehirde bir veya daha fazla otogar olabilir. | otogar_id (PK), otogar_adı, şehir_id (FK), adres        |
 | Otobüs        | Şehirler arası taşımacılık için araç varlığı. | otobüs_id (PK), plakası, kapasite, model, firma_id (FK)    |
 | Firma         | Otobüslerin ait olduğu ulaşım firmaları.      | firma_id (PK), firma_adı, iletişim_bilgileri               |
 | Sefer         | Belirli bir tarih ve saatte gerçekleşen ulaşım hareketi. | sefer_id (PK), kalkış_otogar_id (FK), varış_otogar_id (FK), tarih, saat, otobüs_id (FK), fiyat |
