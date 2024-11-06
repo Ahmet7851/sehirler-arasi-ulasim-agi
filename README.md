@@ -41,6 +41,7 @@
 
 ## 3. E-R Diyagramı
 
+![ER Diyagramı](https://github.com/user-attachments/assets/4c5c249e-bf5f-4e95-9a17-2338f0d673e4)
 
 ---
 
