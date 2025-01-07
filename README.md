@@ -46,7 +46,7 @@
 ---
 ## 3. UML Diyagramı
 
-![Uploading UML Diyagramı.jpeg…]()
+![UML Diyagramı](https://github.com/user-attachments/assets/7f2e646d-7c7a-4ab5-9a79-f77f89dbd392)
 
 ---
 ## 4. Kullanıcı Rolleri ve Gereksinimler
