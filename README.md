@@ -7,6 +7,11 @@
 - 205260060 - Mehmet Dürmüş
 - 215260036 - Serhat Özgan
 
+### Projenin Amacı:
+Projenin amacı, kullanıcıların şehirlerarası otobüs seferlerini arayıp rezervasyon yapabilmelerini ve otobüs firmalarının, otogarların, seferlerin ve yolcuların bilgilerinin düzenli bir şekilde yönetilmesini sağlamaktır. Ayrıca, yönetim süreçlerini otomatikleştirmek ve hataları en aza indirmek için gerekli olan ilişkisel veritabanı modellemesi yapılmıştır.
+
+
+
 ---
 
 ## 1. Varlıklar ve Nitelikler
