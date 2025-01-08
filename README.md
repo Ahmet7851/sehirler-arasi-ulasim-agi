@@ -48,6 +48,9 @@
 
 ![UML Diyagramı](https://github.com/user-attachments/assets/7f2e646d-7c7a-4ab5-9a79-f77f89dbd392)
 
+![image](https://github.com/user-attachments/assets/8d102dad-32be-4c3c-9943-65eb84066c78)
+
+
 ---
 ## 4. Kullanıcı Rolleri ve Gereksinimler
 
